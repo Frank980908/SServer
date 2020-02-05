@@ -9,6 +9,8 @@ Linux高性能服务器（SServer）
 
 /*makefile：Accomplish automation compilation. */
 
+/* The way to run this Server（in linux）： ./Server */
+
 /*
 **************************************To be perfected***************************************************
 */
